@@ -15,3 +15,7 @@ Developers and teams looking to integrate AI agents into real workflows.
 ### Pre-requisites
 
 - Basic experience with APIs.
+
+### Alex stuff
+
+- Course URL was this `https://www.apollographql.com/tutorials/workshop-mcp-intro`
